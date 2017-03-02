@@ -1,0 +1,22 @@
+body {
+  background-image: url('http://img02.deviantart.net/f5c1/i/2012/290/a/b/adorable_kitty_by_bili911-d5i3bew.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about {
+  position: absolute;
+  width: 50%;
+  right: 10%;
+  top: 100px;
+}
+
+.about-header {
+  color: yellow;
+  font-size: 36px;
+  text-shadow: 2px 2px 8px black;
+}
+
+.about-text {
+  margin-top: 20px;
+}
